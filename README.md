@@ -35,6 +35,7 @@ The project is made using laravel, firstly i set up all the view files then the 
 
 ### What I learned
 
+CURD Operations
 
 ## Author
 
