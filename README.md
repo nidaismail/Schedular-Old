@@ -1,4 +1,4 @@
-# Scheduling System
+# Employee Scheduling System
 The is the first version Schedular and it was entirely changed and added in the Github with name [Schedular](https://github.com/nidaismail/Scheduler)
 
 ## Table of contents
